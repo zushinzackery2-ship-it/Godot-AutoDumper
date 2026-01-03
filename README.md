@@ -2,6 +2,7 @@
 
 # Godot Auto Dumper
 
+**半成品，学习中**
 **Godot 4.x 运行时 ClassDB 自动提取工具**
 
 *自动检测 | 智能扫描 | SDK 生成*
@@ -223,4 +224,5 @@ MethodBind
 **Platform:** Windows x64 | **License:** MIT
 
 </div>
+
 
