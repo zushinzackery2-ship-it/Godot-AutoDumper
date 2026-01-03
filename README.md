@@ -23,6 +23,7 @@
 > [!NOTE]
 > **版本兼容性说明**  
 > 本项目面向 Godot 4.x（Windows x64）。Godot 3.x 版本在结构偏移与布局上存在明确差异，暂不支持。
+> 暂时只能导出C++类，不支持GDScript导出
 
 ---
 
@@ -224,6 +225,7 @@ MethodBind
 **Platform:** Windows x64 | **License:** MIT
 
 </div>
+
 
 
 
